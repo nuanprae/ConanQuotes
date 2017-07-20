@@ -1,0 +1,46 @@
+body { 
+  background:url(http://res.cloudinary.com/dk7wue4rl/image/upload/v1500095952/adrian-226109_avisz9.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#quoteTextDisplay {
+  font-family: 'Abel', sans-serif;
+  font-size: 200%;
+  padding: 20px 40px 20px 40px;
+}
+
+#quoteCharacterDisplay {
+  font-family: 'La Belle Aurore', cursive;
+  font-size: 200%;
+}
+
+#quoteButton {
+  font-family: 'Abel', sans-serif;
+}
+
+.container-fluid {
+  padding: 100px 50px 0 50px;
+}
+
+#footer {
+  position: absolute;
+  text-align: right;
+  bottom: 0px;
+  width: 100%;
+  height: 100px;
+}
+
+#adrianButton {
+  color: black;
+}
+
+.tweet {
+  font-size: 150%;
+  padding: 20px;
+}
+
+.tweet:hover {
+  cursor: hand;
+}
+
